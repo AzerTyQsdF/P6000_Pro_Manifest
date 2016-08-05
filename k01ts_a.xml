@@ -1,0 +1,6 @@
+<manifest>
+<project path="device/elephone/p8000" name="AzerTyQsdF/android_device_alps_k01ts_a" remote="github" revision="cm-12.1"/>
+
+<project path="vendor/alps/k01ts_a" name="AzerTyQsdF/android_vendor_alps_k01ts_a" remote="github" revision="master"/>
+
+</manifest>
